@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Jadav
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m Python Django Devloper
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me princejadav03@gmail.com
 
